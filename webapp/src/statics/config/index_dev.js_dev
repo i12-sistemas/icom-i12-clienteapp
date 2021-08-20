@@ -1,0 +1,10 @@
+export default {
+  API_URL: 'http://clienteapi.icom.local/api/'
+  // RECEITAWS_TOKEN: '16f31c76ea7a711c13b934764198fcce00c35a7b8e3e39730ffab31f78c2384a',
+  // one-sginal coletasapp.dev
+  // ONESIGNAL_APPID: '800b42fc-e1b2-4822-9f90-a24a912aefa6'
+  // GOOGLEMAPS_APIKEY: 'AIzaSyBdryEN9fRcmvNWFSZlXQmsr2960bT1hzM',
+  // pusher app coletasapp-dev
+  // PUSHER_APP_KEY: 'c63498217c12fde69e41',
+  // PUSHER_CLUSTER: 'us2'
+}
